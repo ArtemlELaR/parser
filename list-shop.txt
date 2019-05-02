@@ -1,0 +1,5 @@
+id: 16710053||Имя: Back2BasicsEmporium||Url: https://www.etsy.com/shop/Back2BasicsEmporium  ||Продажи: 91||Отзывы: 11||Лайки: 28||Адрес: нет||Дата: 05-01-2018||Продуктов: 14
+id: 16710096||Имя: clubofgoodhope||Url: https://www.etsy.com/shop/clubofgoodhope  ||Продажи: 5||Отзывы: нет||Лайки: 21||Адрес: Hamburg, Germany||Дата: 25-01-2018||Продуктов: 14
+id: 16710123||Имя: MusicMayhemTreasures||Url: https://www.etsy.com/shop/MusicMayhemTreasures  ||Продажи: 53||Отзывы: 11||Лайки: 21||Адрес: нет||Дата: 04-08-2018||Продуктов: 49
+id: 16710207||Имя: RoseCraftQuilts||Url: https://www.etsy.com/shop/RoseCraftQuilts  ||Продажи: 6||Отзывы: 2||Лайки: 10||Адрес: Indianapolis, Indiana||Дата: 15-06-2018||Продуктов: 10
+id: 16710318||Имя: FeatherAndStoneArt||Url: https://www.etsy.com/shop/FeatherAndStoneArt  ||Продажи: 7||Отзывы: 7||Лайки: 24||Адрес: нет||Дата: 07-01-2018||Продуктов: 28
