@@ -24,7 +24,7 @@
             $fptime = fopen('list-shop.txt', 'a');
 
 
-            $apikey = 'anr70k636bh3iyh2ux57uvp2'; // Ключ API
+            $apikey = ''; // Ключ API
 
             $shopid = (int)(file_get_contents('counterid.txt')); // Счетчик откуда будет изначальное движение
 
